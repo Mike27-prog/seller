@@ -62,10 +62,10 @@ function executeScript()
 			["Coin"] = {Class = "Pet", Price = "-1%", AllTypes = true},
 			["Lucky Block"] = {Class = "Pet", Price = "-1%", AllTypes = true},
 			["Mega Lucky Gingerbread"] = {Class = "Misc", Price = "-1%"},
-			["Lockpick A"] = {Class = "Misc", Price = "-1%"},
-			["Lockpick B"] = {Class = "Misc", Price = "-1%"},
-			["Lockpick C"] = {Class = "Misc", Price = "-1%"},
-			["Poinsettia Peacock"] = {Class = "Pet", Price = "-1%", AllTypes = true},
+			["Lockpick A"] = {Class = "Misc", Price = "-5%"},
+			["Lockpick B"] = {Class = "Misc", Price = "-5%"},
+			["Lockpick C"] = {Class = "Misc", Price = "-5%"},
+			["Poinsettia Peacock"] = {Class = "Pet", Price = "-5%", AllTypes = true},
 			
                 },
                 Serverhop = {
