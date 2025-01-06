@@ -8,9 +8,9 @@ getgenv().Settings = {
             ["Hype Egg"] = {Price = "1%"},
             ["Huge Machine Butterfly Egg"] = {Price = "1%"},
             ["Chest Spell"] = {Price = "1%"},
-            ["Golden Pencil"] = {Price = "1%"},
-            ["Diamond Pencil"] = {Price = "1%"},
-            ["Rainbow Pencil"] = {Price = "1%"}
+            ["Golden Pencil"] = {Price = "10%"},
+            ["Diamond Pencil"] = {Price = "10%"},
+            ["Rainbow Pencil"] = {Price = "10%"}
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1149879288636649583/OGbQNmZSGsr8bN2ooNgoA9HI0wAnzc1acTAGKH6_twp7E3dvgxgcaRcU3HfRkubXSsMw"},
