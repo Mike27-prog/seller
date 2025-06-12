@@ -1,16 +1,12 @@
-script_key = "JVEqdIbQwXfhegDMnwxpVyVkJVegTVSs"
+script_key = "MSovCgaLKsAhugsteIiyHTBBdldOfmda"
 getgenv().Settings = {
    Seller = {
         Active = true,
         Items = {
-            ["All Huges"] = {Price = "+1%", AllTypes = true},
-            ["Snowflake Gift"] = {Price = "2%"},
+            ["All Huges"] = {Price = "5%", AllTypes = true},
+            ["Fragmented Dominus Ball"] = {Price = "10%", AllTypes = true},
+            ["Black Hole Angelus Ball"] = {Price = "10%", AllTypes = true},
             ["Hype Egg"] = {Price = "1%"},
-            ["Huge Machine Butterfly Egg"] = {Price = "1%"},
-            ["Chest Spell"] = {Price = "1%"},
-            ["Golden Pencil"] = {Price = "10%"},
-            ["Diamond Pencil"] = {Price = "10%"},
-            ["Rainbow Pencil"] = {Price = "10%"}
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1149879288636649583/OGbQNmZSGsr8bN2ooNgoA9HI0wAnzc1acTAGKH6_twp7E3dvgxgcaRcU3HfRkubXSsMw"},
