@@ -3,9 +3,9 @@ getgenv().Settings = {
    Seller = {
         Active = true,
         Items = {
-            ["All Huges"] = {Price = "5%", AllTypes = true},
             ["Fragmented Dominus Ball"] = {Price = "10%", AllTypes = true},
             ["Black Hole Angelus Ball"] = {Price = "10%", AllTypes = true},
+            ["All Huges"] = {Price = "5%", AllTypes = true},
             ["Hype Egg"] = {Price = "1%"},
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
