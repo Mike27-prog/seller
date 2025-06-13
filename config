@@ -8,7 +8,7 @@ getgenv().Settings = {
             ["All Huges"] = {Price = "5%", AllTypes = true},
             ["Hype Egg"] = {Price = "1%"},
         },
-        ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
+        ["Switch Servers"] = {Active = true, MinuteDelay = 60, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1149879288636649583/OGbQNmZSGsr8bN2ooNgoA9HI0wAnzc1acTAGKH6_twp7E3dvgxgcaRcU3HfRkubXSsMw"},
         ["Kill Switch"] = {
             ["Booth Runout"] = false,
@@ -16,7 +16,7 @@ getgenv().Settings = {
             ["60 Minutes Timer"] = false,
             ["^^^ Switch To Sniping"] = false
         },
-        ["Diamonds Sendout"] = {Active = false, Username = "YoBotBoyPuppy", Amount = "3b"}
+        ["Diamonds Sendout"] = {Active = false, Username = "Dragneel272004", Amount = "3b"}
     },
 
     [[ Thank you for using System Exodus <3! ]]
