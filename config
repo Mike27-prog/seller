@@ -8,7 +8,7 @@ getgenv().Settings = {
             ["All Huges"] = {Price = "5%", AllTypes = true},
             ["Hype Egg"] = {Price = "1%"},
         },
-        ["Switch Servers"] = {Active = true, MinuteDelay = 60, OnlyPRO = false},
+        ["Switch Servers"] = {Active = true, MinuteDelay = 30, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1149879288636649583/OGbQNmZSGsr8bN2ooNgoA9HI0wAnzc1acTAGKH6_twp7E3dvgxgcaRcU3HfRkubXSsMw"},
         ["Kill Switch"] = {
             ["Booth Runout"] = false,
