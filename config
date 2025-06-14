@@ -3,8 +3,13 @@ getgenv().Settings = {
    Seller = {
         Active = true,
         Items = {
-            ["Fragmented Dominus Ball"] = {Price = "10%", AllTypes = true},
-            ["Black Hole Angelus Ball"] = {Price = "10%", AllTypes = true},
+            ["Black Hole Angelus Ball"] = {Price = "10%", Priority = true},
+            ["Fragmented Dominus Ball"] = {Price = "10%", Priority = true},
+            ["Rainbow Black Hole Angelus Ball"] = {Price = "10%", Priority = true},
+            ["Rainbow Fragmented Dominus Ball"] = {Price = "10%", Priority = true},
+            ["Golden Black Hole Angelus Ball"] = {Price = "10%", Priority = true},
+            ["Golden Fragmented Dominus Ball"] = {Price = "10%", Priority = true},
+            ["All Huges"] = {Price = "20%", AllTypes = true},
             ["Hype Egg"] = {Price = "1%"},
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 30, OnlyPRO = false},
