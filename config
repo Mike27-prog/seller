@@ -3,16 +3,16 @@ getgenv().Settings = {
    Seller = {
         Active = true,
         Items = {
-            ["Black Hole Angelus Ball"] = {Price = "10%", Priority = true},
-            ["Fragmented Dominus Ball"] = {Price = "10%", Priority = true},
+            ["Black Hole Angelus Ball"] = {Price = "20%"},
+            ["Fragmented Dominus Ball"] = {Price = "20%"},
             ["Rainbow Black Hole Angelus Ball"] = {Price = "10%", Priority = true},
             ["Rainbow Fragmented Dominus Ball"] = {Price = "10%", Priority = true},
-            ["Golden Black Hole Angelus Ball"] = {Price = "10%", Priority = true},
-            ["Golden Fragmented Dominus Ball"] = {Price = "10%", Priority = true},
+            ["Golden Black Hole Angelus Ball"] = {Price = "10%"},
+            ["Golden Fragmented Dominus Ball"] = {Price = "10%"},
             ["All Huges"] = {Price = "20%", AllTypes = true},
             ["Hype Egg"] = {Price = "1%"},
         },
-        ["Switch Servers"] = {Active = true, MinuteDelay = 30, OnlyPRO = false},
+        ["Switch Servers"] = {Active = true, MinuteDelay = 30, OnlyPRO = true},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1149879288636649583/OGbQNmZSGsr8bN2ooNgoA9HI0wAnzc1acTAGKH6_twp7E3dvgxgcaRcU3HfRkubXSsMw"},
         ["Kill Switch"] = {
             ["Booth Runout"] = false,
