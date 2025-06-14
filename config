@@ -5,7 +5,6 @@ getgenv().Settings = {
         Items = {
             ["Fragmented Dominus Ball"] = {Price = "10%", AllTypes = true},
             ["Black Hole Angelus Ball"] = {Price = "10%", AllTypes = true},
-            ["All Huges"] = {Price = "5%", AllTypes = true},
             ["Hype Egg"] = {Price = "1%"},
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 30, OnlyPRO = false},
