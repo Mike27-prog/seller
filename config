@@ -11,6 +11,7 @@ getgenv().Settings = {
         ["Secret pet4"] = {Price = "10%", AllTypes = true},
         ["All Huges"] = {Price = "15%", AllTypes = true},
         ["All Class: Tower"] = {Price = "15%"},
+        ["All Titanics"] = {Price = "10%", AllTypes = true},
         ["Tower Defense Gift"] = {Price = "10%"},
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 30, OnlyPRO = true},
